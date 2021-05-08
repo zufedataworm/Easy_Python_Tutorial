@@ -1,0 +1,16 @@
+Age: 42
+Sex: 0
+Height: 173cm
+Weight: 75.5kg
+Salary: 15000Yuan/month
+Age: 31
+Sex: 1
+Height: 162cm
+Weight: 55.5kg
+Salary: 8200Yuan/month
+Age: 40
+Sex: 0
+Height: 175cm
+Weight: 65.5kg
+Salary: 13200Yuan/month
+
